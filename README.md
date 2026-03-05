@@ -4,7 +4,7 @@ A fully structured personal CV created using semantic HTML. Demonstrates knowled
 ## Features
 -Simple and clean structure
 -Easy to read
-Fully coded from scratch
+-Fully coded from scratch
 
 ## Learning Points
 -Structuring content with HTML tags
